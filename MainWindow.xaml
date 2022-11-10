@@ -10,22 +10,22 @@
     <Grid Loaded="form_loaded">
 
         <Button x:Name="Table1_btn" Content="Vásárolj asztalt!" HorizontalAlignment="Left" Margin="130,105,0,0" VerticalAlignment="Top" Click="Table1_btn_Click"/>
-        <Image x:Name="Table1" HorizontalAlignment="Left" Height="100" Margin="123,65,0,0" VerticalAlignment="Top" Width="100" Source="/51882.png" Opacity="1" Visibility="Hidden"/>
+        <Image x:Name="Table1" HorizontalAlignment="Left" Height="100" Margin="123,65,0,0" VerticalAlignment="Top" Width="100" Source="/51882.png" Opacity="1" Visibility="Hidden" MouseEnter="Table1_MouseEnter"/>
 
         <Button x:Name="Table2_btn" Content="Vásárolj asztalt!" HorizontalAlignment="Left" Margin="339,105,0,0" VerticalAlignment="Top" Click="Table2_btn_Click"/>
-        <Image x:Name="Table2" HorizontalAlignment="Left" Height="100" Margin="332,65,0,0" VerticalAlignment="Top" Width="100" Source="/51882.png" Opacity="1" Visibility="Hidden"/>
+        <Image x:Name="Table2" HorizontalAlignment="Left" Height="100" Margin="332,65,0,0" VerticalAlignment="Top" Width="100" Source="/51882.png" Opacity="1" Visibility="Hidden" MouseEnter="Table2_MouseEnter"/>
 
         <Button x:Name="Table3_btn" Content="Vásárolj asztalt!" HorizontalAlignment="Left" Margin="548,105,0,0" VerticalAlignment="Top" Click="Table3_btn_Click"/>
-        <Image x:Name="Table3" HorizontalAlignment="Left" Height="100" Margin="541,65,0,0" VerticalAlignment="Top" Width="100" Source="/51882.png" Opacity="1" Visibility="Hidden"/>
+        <Image x:Name="Table3" HorizontalAlignment="Left" Height="100" Margin="541,65,0,0" VerticalAlignment="Top" Width="100" Source="/51882.png" Opacity="1" Visibility="Hidden" MouseEnter="Table3_MouseEnter"/>
 
         <Button x:Name="Table4_btn" Content="Vásárolj asztalt!" HorizontalAlignment="Left" Margin="130,268,0,0" VerticalAlignment="Top" Click="Table4_btn_Click"/>
-        <Image x:Name="Table4" HorizontalAlignment="Left" Height="100" Margin="123,238,0,0" VerticalAlignment="Top" Width="100" Source="/51882.png" Opacity="1" Visibility="Hidden"/>
+        <Image x:Name="Table4" HorizontalAlignment="Left" Height="100" Margin="123,238,0,0" VerticalAlignment="Top" Width="100" Source="/51882.png" Opacity="1" Visibility="Hidden" MouseEnter="Table4_MouseEnter"/>
 
         <Button x:Name="Table5_btn" Content="Vásárolj asztalt!" HorizontalAlignment="Left" Margin="339,268,0,0" VerticalAlignment="Top" Click="Table5_btn_Click"/>
-        <Image x:Name="Table5" HorizontalAlignment="Left" Height="100" Margin="332,238,0,0" VerticalAlignment="Top" Width="100" Source="/51882.png" Opacity="1" Visibility="Hidden"/>
+        <Image x:Name="Table5" HorizontalAlignment="Left" Height="100" Margin="332,238,0,0" VerticalAlignment="Top" Width="100" Source="/51882.png" Opacity="1" Visibility="Hidden" MouseEnter="Table5_MouseEnter"/>
 
         <Button x:Name="Table6_btn" Content="Vásárolj asztalt!" HorizontalAlignment="Left" Margin="548,268,0,0" VerticalAlignment="Top" Click="Table6_btn_Click"/>
-        <Image x:Name="Table6" HorizontalAlignment="Left" Height="100" Margin="541,238,0,0" VerticalAlignment="Top" Width="100" Source="/51882.png" Opacity="1" Visibility="Hidden"/>
+            <Image x:Name="Table6" HorizontalAlignment="Left" Height="100" Margin="541,238,0,0" VerticalAlignment="Top" Width="100" Source="/51882.png" Opacity="1" Visibility="Hidden" MouseEnter="Table6_MouseEnter"/>
 
         <Label x:Name="kassatext_lbl" Content="Kassza:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
         <Label x:Name="kassaszam_lbl" Content="0" HorizontalAlignment="Left" Margin="57,10,0,0" VerticalAlignment="Top"/>
@@ -34,5 +34,19 @@
         <Label x:Name="newTablePrice_lbl" Content="0" HorizontalAlignment="Left" Margin="84,47,0,0" VerticalAlignment="Top"/>
 
         <Button x:Name="fizet_btn" Content="Kifizetés" HorizontalAlignment="Left" Margin="682,339,0,0" VerticalAlignment="Top" Click="fizet_btn_Click"/>
+
+        <Image x:Name="vasarlo1_img" HorizontalAlignment="Left" Height="48" Margin="21,2888,0,0" VerticalAlignment="Top" Width="33" Source="/6424697.png" Visibility="Visible" RenderTransformOrigin="0.818,0.225"/>
+        <Image x:Name="vasarlo11_img" HorizontalAlignment="Left" Height="49" Margin="21,288,0,0" VerticalAlignment="Top" Width="33" Source="/6424697.png" Visibility="Hidden" RenderTransformOrigin="0.818,0.225"/>
+        <Image x:Name="vasarlo2_img" HorizontalAlignment="Left" Height="49" Margin="21,288,0,0" VerticalAlignment="Top" Width="33" Source="/6424697.png" Visibility="Hidden" RenderTransformOrigin="0.818,0.225"/>
+        <Image x:Name="vasarlo22_img" HorizontalAlignment="Left" Height="49" Margin="21,288,0,0" VerticalAlignment="Top" Width="33" Source="/6424697.png" Visibility="Hidden" RenderTransformOrigin="0.818,0.225"/>
+        <Image x:Name="vasarlo3_img" HorizontalAlignment="Left" Height="49" Margin="21,288,0,0" VerticalAlignment="Top" Width="33" Source="/6424697.png" Visibility="Hidden" RenderTransformOrigin="0.818,0.225"/>
+        <Image x:Name="vasarlo33_img" HorizontalAlignment="Left" Height="49" Margin="21,288,0,0" VerticalAlignment="Top" Width="33" Source="/6424697.png" Visibility="Hidden" RenderTransformOrigin="0.818,0.225"/>
+        <Image x:Name="vasarlo4_img" HorizontalAlignment="Left" Height="49" Margin="21,288,0,0" VerticalAlignment="Top" Width="33" Source="/6424697.png" Visibility="Hidden" RenderTransformOrigin="0.818,0.225"/>
+        <Image x:Name="vasarlo44_img" HorizontalAlignment="Left" Height="49" Margin="21,288,0,0" VerticalAlignment="Top" Width="33" Source="/6424697.png" Visibility="Hidden" RenderTransformOrigin="0.818,0.225"/>
+        <Image x:Name="vasarlo5_img" HorizontalAlignment="Left" Height="49" Margin="21,288,0,0" VerticalAlignment="Top" Width="33" Source="/6424697.png" Visibility="Hidden" RenderTransformOrigin="0.818,0.225"/>
+        <Image x:Name="vasarlo55_img" HorizontalAlignment="Left" Height="49" Margin="21,288,0,0" VerticalAlignment="Top" Width="33" Source="/6424697.png" Visibility="Hidden" RenderTransformOrigin="0.818,0.225"/>
+        <Image x:Name="vasarlo6_img" HorizontalAlignment="Left" Height="49" Margin="21,288,0,0" VerticalAlignment="Top" Width="33" Source="/6424697.png" Visibility="Hidden" RenderTransformOrigin="0.818,0.225"/>
+        <Image x:Name="vasarlo66_img" HorizontalAlignment="Left" Height="49" Margin="21,288,0,0" VerticalAlignment="Top" Width="33" Source="/6424697.png" Visibility="Hidden" RenderTransformOrigin="0.818,0.225"/>
+        
     </Grid>
 </Window>
