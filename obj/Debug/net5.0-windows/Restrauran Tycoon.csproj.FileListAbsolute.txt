@@ -20,3 +20,25 @@ C:\Users\user\source\repos\Restrauran Tycoon\obj\Debug\net5.0-windows\Restrauran
 C:\Users\user\source\repos\Restrauran Tycoon\obj\Debug\net5.0-windows\ref\Restrauran Tycoon.dll
 C:\Users\user\source\repos\Restrauran Tycoon\obj\Debug\net5.0-windows\Restrauran Tycoon.pdb
 C:\Users\user\source\repos\Restrauran Tycoon\obj\Debug\net5.0-windows\Restrauran Tycoon.genruntimeconfig.cache
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\bin\Debug\net5.0-windows\Restrauran Tycoon.exe
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\bin\Debug\net5.0-windows\Restrauran Tycoon.deps.json
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\bin\Debug\net5.0-windows\Restrauran Tycoon.runtimeconfig.json
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\bin\Debug\net5.0-windows\Restrauran Tycoon.runtimeconfig.dev.json
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\bin\Debug\net5.0-windows\Restrauran Tycoon.dll
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\bin\Debug\net5.0-windows\Restrauran Tycoon.pdb
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\obj\Debug\net5.0-windows\Restrauran Tycoon.csproj.AssemblyReference.cache
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\obj\Debug\net5.0-windows\Restrauran Tycoon_MarkupCompile.cache
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\obj\Debug\net5.0-windows\Restrauran Tycoon_MarkupCompile.lref
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\obj\Debug\net5.0-windows\Restrauran Tycoon.g.resources
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\obj\Debug\net5.0-windows\Restrauran Tycoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\obj\Debug\net5.0-windows\Restrauran Tycoon.AssemblyInfoInputs.cache
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\obj\Debug\net5.0-windows\Restrauran Tycoon.AssemblyInfo.cs
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\obj\Debug\net5.0-windows\Restrauran Tycoon.csproj.CoreCompileInputs.cache
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\obj\Debug\net5.0-windows\Restrauran Tycoon.dll
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\obj\Debug\net5.0-windows\refint\Restrauran Tycoon.dll
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\obj\Debug\net5.0-windows\Restrauran Tycoon.pdb
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\obj\Debug\net5.0-windows\Restrauran Tycoon.genruntimeconfig.cache
+C:\Users\simon\Documents\GitHub\RestaurantTycoon\obj\Debug\net5.0-windows\ref\Restrauran Tycoon.dll
