@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\simon\\Source\\Repos\\RestaurantTycoon2\\Restrauran Tycoon\\Restrauran Tycoon.csproj",
+      "projectUniqueName": "C:\\Users\\simon\\Documents\\GitHub\\RestaurantTycoon\\Restrauran Tycoon.csproj",
       "projectName": "Restrauran Tycoon",
-      "projectPath": "C:\\Users\\simon\\Source\\Repos\\RestaurantTycoon2\\Restrauran Tycoon\\Restrauran Tycoon.csproj",
+      "projectPath": "C:\\Users\\simon\\Documents\\GitHub\\RestaurantTycoon\\Restrauran Tycoon.csproj",
       "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\simon\\Source\\Repos\\RestaurantTycoon2\\Restrauran Tycoon\\obj\\",
+      "outputPath": "C:\\Users\\simon\\Documents\\GitHub\\RestaurantTycoon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
