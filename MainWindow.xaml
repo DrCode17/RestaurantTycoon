@@ -25,7 +25,7 @@
         <Image x:Name="Table5" HorizontalAlignment="Left" Height="100" Margin="332,238,0,0" VerticalAlignment="Top" Width="100" Source="/51882.png" Opacity="1" Visibility="Hidden" MouseEnter="Table5_MouseEnter"/>
 
         <Button x:Name="Table6_btn" Content="Vásárolj asztalt!" HorizontalAlignment="Left" Margin="548,268,0,0" VerticalAlignment="Top" Click="Table6_btn_Click"/>
-            <Image x:Name="Table6" HorizontalAlignment="Left" Height="100" Margin="541,238,0,0" VerticalAlignment="Top" Width="100" Source="/51882.png" Opacity="1" Visibility="Hidden" MouseEnter="Table6_MouseEnter"/>
+        <Image x:Name="Table6" HorizontalAlignment="Left" Height="100" Margin="541,238,0,0" VerticalAlignment="Top" Width="100" Source="/51882.png" Opacity="1" Visibility="Hidden" MouseEnter="Table6_MouseEnter"/>
 
         <Label x:Name="kassatext_lbl" Content="Kassza:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
         <Label x:Name="kassaszam_lbl" Content="0" HorizontalAlignment="Left" Margin="57,10,0,0" VerticalAlignment="Top"/>
